@@ -150,6 +150,13 @@ Após criar as 3 APIS, execute:
 python3 apigateway.py
 ```
 
+aaa
+a
+aa
+a
+a
+a
+
 Após executar esses comandos, volte para o dashboard da AWS e execute os passos abaixo:
 
 1. Selecione a api **lp-app**;
